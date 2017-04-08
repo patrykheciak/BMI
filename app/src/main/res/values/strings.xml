@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="height">Height</string>
+    <string name="mass">Mass</string>
+    <string name="count">Count</string>
+    <string name="clear">Clear</string>
+    <string name="your_bmi_is">Your BMI is</string>
+    <string name="incorrect_mass">Incorrect mass</string>
+    <string name="incorrect_height">Incorrect height</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal_range">Normal Range</string>
+    <string name="overweight">Overweight</string>
+    <string name="bmi_colon">BMI:</string>
+    <string name="saved">Saved</string>
+    <string name="no_bmi_to_save">No BMI to save</string>
+    <string name="no_bmi_to_share">No BMI to share</string>
+    <string name="my_bmi_is">Moje BMI to %1$s!</string>
+    <string name="i_ve_found_a_way_to_lose_weight">Odkryłam jeden prosty trick jak schudnąć!</string>
+    <string name="illegal_input">illegal input 😞</string>
+    <string name="fix_it_and_try_again">fix it and try again</string>
+
+    <string-array name="unit_array_mass">
+        <item>kg</item>
+        <item>lb</item>
+    </string-array>
+
+    <string-array name="unit_array_height">
+        <item>cm</item>
+        <item>m</item>
+    </string-array>
+
+
+</resources>
